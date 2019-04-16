@@ -1,0 +1,25 @@
+.btn {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.form {
+  color: rgb(138, 138, 138);
+}
+
+.form input {
+  margin-top: 10px;
+  margin-right: 10px;
+  color: white;
+}
+
+.form input[type="date"] {
+  height: 40px;
+  width: 130px;
+  margin-left: 10px;
+}
+
+.form input[type="checkbox"] {
+  margin-right: 3px;
+  margin-left: 5px;
+}

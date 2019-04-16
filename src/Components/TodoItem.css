@@ -1,0 +1,28 @@
+.prior {
+  color: rgb(255, 0, 0);
+}
+
+.nonprior {
+  color: #555;
+}
+
+span {
+  font-weight: normal;
+  font-size: 16px;
+  color: #bbb;
+}
+
+p {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.todo {
+  border: 1px #999 solid;
+  margin-bottom: 4px;
+  padding: 5px;
+}
+
+.finished button {
+  margin-left: 5px;
+}
